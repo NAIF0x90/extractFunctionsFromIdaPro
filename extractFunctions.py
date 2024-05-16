@@ -42,7 +42,7 @@ def process_functions(functions):
                 process_functions(newFunctions)
 
 # Example usage: pass the function name as an argument
-function_name = "sub_10079651C"
+function_name = ""
 functionsTemp = set()  # Use a set to store processed functions
 functions = print_function_details(function_name)
 process_functions(functions)
